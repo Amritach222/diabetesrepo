@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/diabetesrepo/static/css/main.ce3a8ca5.css",
-    "main.js": "/diabetesrepo/static/js/main.7015313e.js",
+    "main.js": "/diabetesrepo/static/js/main.eb38743a.js",
     "static/css/78.609a37ee.chunk.css": "/diabetesrepo/static/css/78.609a37ee.chunk.css",
-    "static/js/78.edf45da1.chunk.js": "/diabetesrepo/static/js/78.edf45da1.chunk.js",
+    "static/js/78.7f1bcace.chunk.js": "/diabetesrepo/static/js/78.7f1bcace.chunk.js",
     "static/js/24.3ae4f47d.chunk.js": "/diabetesrepo/static/js/24.3ae4f47d.chunk.js",
     "static/js/9.5cbc724c.chunk.js": "/diabetesrepo/static/js/9.5cbc724c.chunk.js",
     "static/js/1.b8d8c62c.chunk.js": "/diabetesrepo/static/js/1.b8d8c62c.chunk.js",
@@ -15,7 +15,9 @@
     "static/js/243.5eea04c2.chunk.js": "/diabetesrepo/static/js/243.5eea04c2.chunk.js",
     "static/js/66.30e97c50.chunk.js": "/diabetesrepo/static/js/66.30e97c50.chunk.js",
     "static/js/198.ef1981cd.chunk.js": "/diabetesrepo/static/js/198.ef1981cd.chunk.js",
-    "static/js/638.0ab01b63.chunk.js": "/diabetesrepo/static/js/638.0ab01b63.chunk.js",
+    "static/css/752.04afe96b.chunk.css": "/diabetesrepo/static/css/752.04afe96b.chunk.css",
+    "static/js/752.596d6efc.chunk.js": "/diabetesrepo/static/js/752.596d6efc.chunk.js",
+    "static/js/638.90cdf5aa.chunk.js": "/diabetesrepo/static/js/638.90cdf5aa.chunk.js",
     "static/js/973.8e734a99.chunk.js": "/diabetesrepo/static/js/973.8e734a99.chunk.js",
     "static/js/67.6d981aad.chunk.js": "/diabetesrepo/static/js/67.6d981aad.chunk.js",
     "static/js/15.a645796c.chunk.js": "/diabetesrepo/static/js/15.a645796c.chunk.js",
@@ -30,9 +32,9 @@
     "static/media/6.jpg": "/diabetesrepo/static/media/6.edefb235566ed72a7429.jpg",
     "index.html": "/diabetesrepo/index.html",
     "main.ce3a8ca5.css.map": "/diabetesrepo/static/css/main.ce3a8ca5.css.map",
-    "main.7015313e.js.map": "/diabetesrepo/static/js/main.7015313e.js.map",
+    "main.eb38743a.js.map": "/diabetesrepo/static/js/main.eb38743a.js.map",
     "78.609a37ee.chunk.css.map": "/diabetesrepo/static/css/78.609a37ee.chunk.css.map",
-    "78.edf45da1.chunk.js.map": "/diabetesrepo/static/js/78.edf45da1.chunk.js.map",
+    "78.7f1bcace.chunk.js.map": "/diabetesrepo/static/js/78.7f1bcace.chunk.js.map",
     "24.3ae4f47d.chunk.js.map": "/diabetesrepo/static/js/24.3ae4f47d.chunk.js.map",
     "9.5cbc724c.chunk.js.map": "/diabetesrepo/static/js/9.5cbc724c.chunk.js.map",
     "1.b8d8c62c.chunk.js.map": "/diabetesrepo/static/js/1.b8d8c62c.chunk.js.map",
@@ -44,7 +46,9 @@
     "243.5eea04c2.chunk.js.map": "/diabetesrepo/static/js/243.5eea04c2.chunk.js.map",
     "66.30e97c50.chunk.js.map": "/diabetesrepo/static/js/66.30e97c50.chunk.js.map",
     "198.ef1981cd.chunk.js.map": "/diabetesrepo/static/js/198.ef1981cd.chunk.js.map",
-    "638.0ab01b63.chunk.js.map": "/diabetesrepo/static/js/638.0ab01b63.chunk.js.map",
+    "752.04afe96b.chunk.css.map": "/diabetesrepo/static/css/752.04afe96b.chunk.css.map",
+    "752.596d6efc.chunk.js.map": "/diabetesrepo/static/js/752.596d6efc.chunk.js.map",
+    "638.90cdf5aa.chunk.js.map": "/diabetesrepo/static/js/638.90cdf5aa.chunk.js.map",
     "973.8e734a99.chunk.js.map": "/diabetesrepo/static/js/973.8e734a99.chunk.js.map",
     "67.6d981aad.chunk.js.map": "/diabetesrepo/static/js/67.6d981aad.chunk.js.map",
     "15.a645796c.chunk.js.map": "/diabetesrepo/static/js/15.a645796c.chunk.js.map",
@@ -52,6 +56,6 @@
   },
   "entrypoints": [
     "static/css/main.ce3a8ca5.css",
-    "static/js/main.7015313e.js"
+    "static/js/main.eb38743a.js"
   ]
 }
